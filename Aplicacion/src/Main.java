@@ -1,4 +1,4 @@
-//REALIZADO POR ALBERTO ALONSO LÓPEZ.
+//ALBERTO ALONSO LÓPEZ.
 public class Main {
   //Asignamos valores en la configuración del Run como se solicita en el enunciado.
   public static void main(String[] args) {
